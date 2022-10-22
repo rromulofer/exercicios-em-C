@@ -9,7 +9,7 @@ Data de criação: 20/10/22
 
 struct menor
 {
-	int valor[200], cont, menor, posicao, total=0;
+	int valor[200], cont, menor, posicao, total = 0;
 
 };
 struct menor num;
