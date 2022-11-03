@@ -4,6 +4,7 @@ E-mail: 00119110559@pq.uenf.br
 Data de criação: 20/10/22
 Ciência da Computação - UENF
 */
+
 #include<stdlib.h>
 
 struct menor
