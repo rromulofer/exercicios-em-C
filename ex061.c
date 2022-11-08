@@ -1,4 +1,9 @@
-//AUTOR:R�MULO SOUZA FERNANDES
+/*
+Autor: Rômulo Souza Fernandes
+E-mail: 00119110559@pq.uenf.br
+Data de criação: 20/10/22
+Ciência da Computação - UENF
+*/
 
 //61. Nome na vertical em escada invertida. Altere o programa anterior de modo que a escada
 //seja invertida.
