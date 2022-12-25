@@ -1,3 +1,10 @@
+/*
+Autor: Rômulo Souza Fernandes
+E-mail: 00119110559@pq.uenf.br
+Data de criação: 25/10/22
+Ciência da Computação - UENF
+*/
+
 #include<stdio.h>
 #include<string.h>
 

@@ -1,8 +1,15 @@
-#Programa que l� duas palavras da entrada e, na sa�da, imprime a menor palavra.
+/*
+Autor: Rômulo Souza Fernandes
+E-mail: 00119110559@pq.uenf.br
+Data de criação: 20/10/22
+Ciência da Computação - UENF
+*/
+
+#Programa que lê duas palavras da entrada e, na saída, imprime a menor palavra.
 
 #include<stdio.h>
 #include<string.h>
-#include<ctype.h> //Necessário para o tolower/toupper
+#include<ctype.h> //NecessÃ¡rio para o tolower/toupper
 
 int main()
 {
@@ -32,6 +39,6 @@ int main()
         }
     }
     printf("Total de vogais:%d\n", total_vogais);
-    printf("Total de espaços:%d\n\n", total_espacos);
+    printf("Total de espaÃ§os:%d\n\n", total_espacos);
     return 0;
 }
