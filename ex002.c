@@ -1,16 +1,9 @@
 /*
-<<<<<<< HEAD
 UENF - CCT - CC
-Paradigmas de Linguagens de Programa��o
-Aluno: R�mulo Souza Fernandes
+Paradigmas de Linguagens de Programação
+Aluno: Rômulo Souza Fernandes
 E-mail: 00119110559@pq.uenf.br
-Data de cria��o: 20/10/22 
-=======
-Autor: Rômulo Souza Fernandes
-E-mail: 00119110559@pq.uenf.br
-Data de criação: 20/10/22
-Ciência da Computação - UENF
->>>>>>> ccd0bdb68b988ab320aac80bf6aa07a2cb58fe5a
+Data de criação: 20/10/22 
 */
 
 #include<stdio.h>
